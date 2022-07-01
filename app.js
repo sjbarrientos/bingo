@@ -29,5 +29,5 @@ const main = async () => {
     } while (condition);
 
 }
-.
-main().                     
+
+main()                  
